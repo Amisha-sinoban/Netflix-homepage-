@@ -3,6 +3,7 @@
 Author: Amisha Singh
 
 ## Description
+https://netflexclonne.netlify.app/
 This project is a redesign of the Netflix homepage, aiming to improve user experience and interface design. It features a modern and user-friendly layout, showcasing popular movies and TV shows, as well as personalized recommendations based on the user's viewing history. The redesign includes responsive design elements for optimal viewing on various devices.
 
 ## Features
